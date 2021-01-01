@@ -1,7 +1,10 @@
 <h1 style="color:blue">Pneumonia Detection + Analysis</h1>
 
 **[This](https://www.kaggle.com/heyytanay/xray-image-eda-classification-keras) is my original Kaggle Notebook that I made for this task.**
+
 **[This](notebooks/pneumonia-classification-in-depth-analysis.ipynb) is a copy of that notebook in this repository.**
+
+**Deployed Web App: [Chest XRay Web Application](https://chest-xray-app-tanay.herokuapp.com/)**
 
 ## The Problem
 
@@ -73,3 +76,8 @@ For example:
 To view my in-depth EDA, visit the [original notebook](https://www.kaggle.com/heyytanay/xray-image-eda-classification-keras) on Kaggle.
 
 Please star this repo, if you found it helpful!
+
+## [NEW] Web App
+I have deployed the model into a Streamlit-Powered Web Application. Currently, It only serves as an example but it can be extended to a full-fledged AI-powered medical application suite later.
+
+Web App: [Chest XRay Web Application](https://chest-xray-app-tanay.herokuapp.com/)
