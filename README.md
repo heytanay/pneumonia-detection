@@ -4,7 +4,7 @@
 
 **[This](notebooks/pneumonia-classification-in-depth-analysis.ipynb) is a copy of that notebook in this repository.**
 
-**Deployed Web App: [Chest XRay Web Application](https://chest-xray-app-tanay.herokuapp.com/)**
+**Deployed Web App: [Chest XRay Web Application](https://share.streamlit.io/heytanay/chest_xray_webapp/sharing/app.py)**
 
 ## The Problem
 
